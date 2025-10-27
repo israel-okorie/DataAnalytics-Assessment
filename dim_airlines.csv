@@ -1,0 +1,7 @@
+Airline_Key,Airline_Name,Airline_Code,Country,Alliance,Hub_Airports
+1,American Airlines,AA,USA,Oneworld,"DFW, CLT, MIA"
+2,Delta Air Lines,DL,USA,SkyTeam,"ATL, DTW, MSP"
+3,United Airlines,UA,USA,Star Alliance,"ORD, IAH, DEN"
+4,Southwest Airlines,WN,USA,Independent,"DAL, HOU, PHX"
+5,Alaska Airlines,AS,USA,Oneworld,"SEA, ANC, PDX"
+6,JetBlue Airways,B6,USA,Independent,"JFK, BOS, FLL"
